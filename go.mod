@@ -48,3 +48,5 @@ retract (
 	v4.10.0 // Generated models are invalid due to a wrong assignment
 	v4.9.0 // Generated code shows v4.8.6, messed up commit tagging and untidy go.mod
 )
+
+replace github.com/volatiletech/strmangle => github.com/cubiest/strmangle v0.0.0-20240816125235-7690fbc4d641
