@@ -49,4 +49,4 @@ retract (
 	v4.9.0 // Generated code shows v4.8.6, messed up commit tagging and untidy go.mod
 )
 
-replace github.com/volatiletech/strmangle => github.com/cubiest/strmangle v0.0.0-20240816125235-7690fbc4d641
+replace github.com/volatiletech/strmangle => github.com/cubiest/strmangle v0.0.0-20240909144934-59d9785c0e12
